@@ -1,0 +1,129 @@
+
+body{
+  background-color: #F6F6F6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+.name-me{
+  font-size: 100px;
+}
+.nonesense-p{
+  color: black;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-family: 'Gwendolyn', cursive;
+}
+h2{
+  font-weight: bold;
+  color: #008CBA;
+  margin: 0;
+  font-size: 15px;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p{
+
+margin: 0;
+}
+
+hr{
+  width: 70%;
+}
+.top-container {
+  background-color: #5584AC;
+  padding-top: 200px;
+  position: relative;
+  margin-bottom: 0;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+
+}
+
+.middle-container{
+  margin-top: 0;
+  position: relative;
+  bottom: 0;
+}
+.bottom-container{
+  background-color: #5584AC;
+  height: 100px;
+  margin-bottom: 0;
+  padding-top: 20px;
+  box-shadow: inset 2px 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+
+}
+.surname-btm{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.footer-link{
+  color: white;
+  margin: 50px 20px auto auto;
+
+}
+.skills{
+  padding-top: 50px;
+}
+a{
+  text-decoration: none;
+}
+button {
+  color: #008CBA;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px 30px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid #008CBA;
+}
+
+button:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+
+.coffee-img{
+  margin: 180px;
+  position: relative;
+  top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  position: relative;
+}
+.profile{
+  margin-top: 0;
+  padding-top: 100px;
+}
+.weed-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.beer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
